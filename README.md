@@ -80,10 +80,10 @@ If you’d like to explore or customize this project locally, follow these steps
 
 ```bash
 # Step 1: Clone the repository using the project's Git URL
-git clone <https://github.com/itsAcchu/harish-reddy-portfolio.git>
+git clone https://github.com/itsAcchu/harish-reddy-portfolio.git
 
 # Step 2: Navigate to the project directory
-cd <harish-reddy-portfolio>
+cd harish-reddy-portfolio
 
 # Step 3: Install dependencies
 npm i
