@@ -7,7 +7,7 @@ This site highlights my skills, projects, and achievements — blending clean de
 
 ## 🌐 Live Project
 
-**Portfolio URL:** [Visit My Portfolio]([https://lovable.dev/projects/0fe7fb00-4678-45dc-8ef7-c3d14252df03](https://harish-portfolio-rust.vercel.app/) 
+**Portfolio URL:** [Visit My Portfolio](https://harish-portfolio-rust.vercel.app/) 
 *(Best viewed on desktop for full animation experience!)*
 
 ---
